@@ -1,2 +1,2 @@
 # instagram_clone
-This is insta clone.
+This is instagaram clone.
